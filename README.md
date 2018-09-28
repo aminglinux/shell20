@@ -11,3 +11,5 @@
 </br>
 案例5: [监控磁盘使用率](https://github.com/aminglinux/shell20/blob/master/5.md)
 </br>
+案例6: [检测两台机器上文件的差异](https://github.com/aminglinux/shell20/blob/master/6.md)
+</br>
