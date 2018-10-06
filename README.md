@@ -15,5 +15,5 @@
 </br>
 案例7: [监控MySQL主从状态](https://github.com/aminglinux/shell20/blob/master/7.md)
 </br>
-案例6: [傻瓜运维脚本](https://github.com/aminglinux/shell20/blob/master/8.md)
+案例8: [傻瓜运维脚本](https://github.com/aminglinux/shell20/blob/master/8.md)
 </br>
