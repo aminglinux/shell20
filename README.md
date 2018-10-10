@@ -17,3 +17,7 @@
 </br>
 案例8: [傻瓜运维脚本](https://github.com/aminglinux/shell20/blob/master/8.md)
 </br>
+案例9: [监控网卡流量](https://github.com/aminglinux/shell20/blob/master/9.md)
+</br>
+案例10: [检测域名是否到期](https://github.com/aminglinux/shell20/blob/master/10.md)
+</br>
