@@ -21,3 +21,5 @@
 </br>
 案例10: [检测域名是否到期](https://github.com/aminglinux/shell20/blob/master/10.md)
 </br>
+案例11: [人员分组](https://github.com/aminglinux/shell20/blob/master/11.md)
+</br>
