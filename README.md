@@ -23,5 +23,5 @@
 </br>
 案例11: [人员分组](https://github.com/aminglinux/shell20/blob/master/11.md)
 </br>
-案例11: [shell多线程备份数据库](https://github.com/aminglinux/shell20/blob/master/12.md)
+案例12: [shell多线程备份数据库](https://github.com/aminglinux/shell20/blob/master/12.md)
 </br>
