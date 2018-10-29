@@ -25,3 +25,9 @@
 </br>
 案例12: [shell多线程备份数据库](https://github.com/aminglinux/shell20/blob/master/12.md)
 </br>
+案例13: [监控CDN各节点是否正常](https://github.com/aminglinux/shell20/blob/master/13.md)
+</br>
+案例14: [为LAMP网站增加项目](https://github.com/aminglinux/shell20/blob/master/14.md)
+</br>
+案例15: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/15.md)
+</br>
