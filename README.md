@@ -31,3 +31,12 @@
 </br>
 案例15: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/15.md)
 </br>
+案例16: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/16.md)
+</br>
+案例17: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/17.md)
+</br>
+案例18: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/18.md)
+</br>
+案例19: [格式化输出xml文件](https://github.com/aminglinux/shell20/blob/master/19.md)
+</br>
+
